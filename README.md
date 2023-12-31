@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm currently working on a couple of projects that I would personally use and hopefully others find useful. I really like the `go` programming language and it would be nice to be able to contribute regularly to open-source projects with a positive impact on society.
+
 <!--
 **scrot/scrot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
